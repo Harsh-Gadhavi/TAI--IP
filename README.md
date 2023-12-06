@@ -1,4 +1,4 @@
-Hey, viewers this is Debanshu saha and in this repository ,
+Hey, viewers this is Harsh Gadhavi and in this repository ,
 I Had uploaded the Task 4 - Movie Ratigs Analysis Project given by Tech-A-Intern.
 <br>
 Data Source : https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data
